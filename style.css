@@ -1,0 +1,23 @@
+.container1{
+    background-color: indianred;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    margin-bottom: 0px;
+    display: flex;
+}
+li{
+    margin: 20px;
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20PX;
+
+}
